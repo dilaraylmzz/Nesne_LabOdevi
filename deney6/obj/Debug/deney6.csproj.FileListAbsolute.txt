@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\deney6\deney6\bin\Debug\deney6.exe.config
+C:\Users\user\source\repos\deney6\deney6\bin\Debug\deney6.exe
+C:\Users\user\source\repos\deney6\deney6\bin\Debug\deney6.pdb
+C:\Users\user\source\repos\deney6\deney6\obj\Debug\deney6.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\deney6\deney6\obj\Debug\deney6.Form1.resources
+C:\Users\user\source\repos\deney6\deney6\obj\Debug\deney6.Properties.Resources.resources
+C:\Users\user\source\repos\deney6\deney6\obj\Debug\deney6.csproj.GenerateResource.cache
+C:\Users\user\source\repos\deney6\deney6\obj\Debug\deney6.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\deney6\deney6\obj\Debug\deney6.exe
+C:\Users\user\source\repos\deney6\deney6\obj\Debug\deney6.pdb
